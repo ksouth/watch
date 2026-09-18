@@ -7,7 +7,7 @@ a separately reviewed adapter and rate limit.
 """
 PROJECT_NAME = "NDIA Accountability Project"
 BASE_URL = "https://ndiaaccountability.org/"
-SITEMAP_URL = "https://ndiaaccountability.org/sitemap.xml"
+SITEMAP_URL = "https://ndiaaccountability.org/"
 ARCHIVE_ROOT = "archive/ndia-accountability"
 PUBLISHED_ARCHIVE_BASE_URL = None
 USER_AGENT = "WatchArchiveBot/1.0 (+https://github.com/ksouth/watch)"
