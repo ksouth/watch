@@ -1,0 +1,389 @@
+{
+  "entries": {
+    "https://ndiaaccountability.org/": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/home/index.html",
+      "sha256": "0b797dbf7fa1a66085e83017944db8467192fbe936bddaf9c8aea056c56638e1",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/about": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/about/index.html",
+      "sha256": "89bf0ba0d072c90948674687dc9aa5c9cf3316932d060ea5d74d1b96e28d9e18",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/code": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/code/index.html",
+      "sha256": "0c50edadf852b033adca2f1e8b79e3e99ccf833dd5dc48ecf79f3550bf071112",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/deaths": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/deaths/index.html",
+      "sha256": "8e22cfe1e00970df7ef94cb32179bd0dc7130d78982207c9a4eb2d7b055ae756",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/experiences": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/experiences/index.html",
+      "sha256": "604c3448ba1732cdf33445e08182edfa8816b3d50b009db5cf2637e6bb3faf56",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/faq": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/faq/index.html",
+      "sha256": "bf6d5931a3d0d2d7964e68fd04fab2adafe47f37266ed01550bac7cb9f69d36a",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/index.html",
+      "sha256": "f262e0a8a568dcaaf5857df5abcb775cdf01b1d042d0bb5c351a1fb6f883af31",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/documents": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/documents/index.html",
+      "sha256": "1ca6b26e91805f09a4ef5df281014a4cdbdbe4feb54a985903ca887d585211cd",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/index.html",
+      "sha256": "e0fdc58d993ea26edb6d0507ffbd3361e0cda726795f39f45bf084c434ff149f",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/annual-report-no-1-of-the-48th-parliament": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/annual-report-no-1-of-the-48th-parliament/index.html",
+      "sha256": "f66a2626f699a3d07f359cf5fb1740ee1f6f4791bc1bef71ecf54f8c370b7654",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/annual-report-no-2-of-the-48th-parliament": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/annual-report-no-2-of-the-48th-parliament/index.html",
+      "sha256": "613b424d832475ef84ffcefcbf650292e44ac5dadee15e715ecfce7767a069b7",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/assistive-technology": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/assistive-technology/index.html",
+      "sha256": "a44fbf2c418f0460ba1f3ad1126ebdc58078795a92d0283727d866a2dbda88be",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/business-services-wage-assessment-tool-payment-scheme-bill-2014-and-business-services-wage-assessment-tool-payment-scheme-consequential-amendments-bill-2014": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/business-services-wage-assessment-tool-payment-scheme-bill-2014-and-business-services-wage-assessment-tool-payment-scheme-consequential-amendments-bill-2014/index.html",
+      "sha256": "4fb2f0c3584b2fd0b08e2782b5ebc42aa2f93e89d76a3aba6ad69bbb1bd41009",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/capability-and-culture-of-the-ndia": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/capability-and-culture-of-the-ndia/index.html",
+      "sha256": "031d7e055d7f7877c6a5e1930f4f18ace2bfd6084d033e9ee38bec967cccc3e8",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/current-scheme-implementation-and-forecasting-for-the-ndis": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/current-scheme-implementation-and-forecasting-for-the-ndis/index.html",
+      "sha256": "19111f2d456a21e4cb7f37f0964bbc714dab3d64eff34afb5bea23b0ca013eaa",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/disability-services-and-inclusion-bill-2023-and-disability-services-and-inclusion-consequential-amendments-and-transitional-provisions-bill-2023": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/disability-services-and-inclusion-bill-2023-and-disability-services-and-inclusion-consequential-amendments-and-transitional-provisions-bill-2023/index.html",
+      "sha256": "fdfc64cc76f6d353a7f90bb15889c037e36d4d7cdf3f56e47261668265da87f9",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/general-issues-annual-report": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/general-issues-annual-report/index.html",
+      "sha256": "b3b38bcd26326aa696646ed8e354b540c29c463a20dce4fe65fa9e89b8164d15",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/general-issues-around-the-implementation-and-performance-of-the-ndis": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/general-issues-around-the-implementation-and-performance-of-the-ndis/index.html",
+      "sha256": "069fd261e381499e8bbd34669f7beabba668789eb4189306fbe5de513addb0d2",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/independent-assessments": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/independent-assessments/index.html",
+      "sha256": "d4859745eaf6bcbeb29d207a32607ada71a398ae8c76c23a4723852627357c40",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/inquiry-into-the-administration-of-the-national-disability-insurance-scheme": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/inquiry-into-the-administration-of-the-national-disability-insurance-scheme/index.html",
+      "sha256": "ea09d19ebcf15e4bf01a7b38e7adadf85673a521b97e362fc2701a8d20248a45",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/integrity-of-the-national-disability-insurance-scheme": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/integrity-of-the-national-disability-insurance-scheme/index.html",
+      "sha256": "29796ab8cf0814b285a665bb299a53610eec8de0e8743f0449cb5d23ae881b9b",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/market-readiness": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/market-readiness/index.html",
+      "sha256": "0838939b2f9ccc485492e757542a767c2581045a76c23929c390d30fbcc8455a",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/medicare-levy-amendment-national-disability-insurance-scheme-funding-bill-2017": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/medicare-levy-amendment-national-disability-insurance-scheme-funding-bill-2017/index.html",
+      "sha256": "db2b0b61a12291ec15af40e7e61f9b05a057e3ed5f0f3ed6bbab4535e741dace",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/national-disability-insurance-scheme-amendment-getting-the-ndis-back-on-track-no-1-bill-2024": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/national-disability-insurance-scheme-amendment-getting-the-ndis-back-on-track-no-1-bill-2024/index.html",
+      "sha256": "9466aaf015f7b4caa480a93eb22d7063c00aa87f75aa19ccfc5dc94eb610fa2e",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/national-disability-insurance-scheme-amendment-improving-supports-for-at-risk-participants-bill-2021": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/national-disability-insurance-scheme-amendment-improving-supports-for-at-risk-participants-bill-2021/index.html",
+      "sha256": "41a29417571ad60a71b11f0b8ac28457732b0d487690bcc92433244442cf3bf0",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/national-disability-insurance-scheme-amendment-integrity-and-safeguarding-bill-2025": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/national-disability-insurance-scheme-amendment-integrity-and-safeguarding-bill-2025/index.html",
+      "sha256": "9d43f9293dfdd8816feaddd0aa7065648376b9386f9ff53a9f5c830f6d4bf2db",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/national-disability-insurance-scheme-amendment-participant-service-guarantee-and-other-measures-bill-2022": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/national-disability-insurance-scheme-amendment-participant-service-guarantee-and-other-measures-bill-2022/index.html",
+      "sha256": "2a1425b71e02893cbc030b4101e1252c9921241a68d4a0db433430275b4e06e1",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/national-disability-insurance-scheme-amendment-quality-and-safeguards-commission-and-other-measures-bill-2017": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/national-disability-insurance-scheme-amendment-quality-and-safeguards-commission-and-other-measures-bill-2017/index.html",
+      "sha256": "a2fa3c4917eaa36002f56afe234cb5caa629fee7a258611fa97e1a403c443c71",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/national-disability-insurance-scheme-amendment-streamlined-governance-bill-2019": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/national-disability-insurance-scheme-amendment-streamlined-governance-bill-2019/index.html",
+      "sha256": "534bc7b0fb1312250a74fa5bf641793e2bb53ca4aa5af235df494ca49d5c1bc9",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/national-disability-insurance-scheme-bill-2012": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/national-disability-insurance-scheme-bill-2012/index.html",
+      "sha256": "af00c52c8888f390317bdc45be6904940055fdb58f5665e919dcdf8a48285a5a",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/national-disability-insurance-scheme-savings-fund-special-account-bill-2016": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/national-disability-insurance-scheme-savings-fund-special-account-bill-2016/index.html",
+      "sha256": "b105c96eec2ee60021bdc7f5a0600a44114eba081e7a74026a09e2255b451b52",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/ndis-future-generations-bill": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/ndis-future-generations-bill/index.html",
+      "sha256": "d1853236a9a578f25b3842e430f23467949c45321facd0a9dac5e462c120b6fa",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/ndis-ict-systems": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/ndis-ict-systems/index.html",
+      "sha256": "1070262c24dd2ce1a369def8b31c115e8ade0d837f12ba68f794d8c1c597c1c6",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/ndis-participant-experience-in-rural-regional-and-remote-australia": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/ndis-participant-experience-in-rural-regional-and-remote-australia/index.html",
+      "sha256": "2d05a67a23ba3a2d0b11cd3fce16a3e0ab4106ebf64cbbbce214161152fa5839",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/ndis-planning": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/ndis-planning/index.html",
+      "sha256": "9df3bf6698442002548d07c7499cd46a07bb5ec4bf696acbc4db9614146031fb",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/ndis-quality-and-safeguards-commission": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/ndis-quality-and-safeguards-commission/index.html",
+      "sha256": "58d3a012cc75ce527e6c447ef71632117bc27bcad8e030e7d9304866bf9213f4",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/ndis-workforce": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/ndis-workforce/index.html",
+      "sha256": "d19c303ab67441ff4d85aa2ffbaa673ecd40884f9bb0eaa890c29b0ee5abb232",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/provision-of-services-under-the-ndis-early-childhood-early-intervention-approach": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/provision-of-services-under-the-ndis-early-childhood-early-intervention-approach/index.html",
+      "sha256": "fa62826bffdaab25269a3e2bd1943c169d03f45eb02dbf52aa700858b1c13f08",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/social-services-legislation-amendment-transition-mobility-allowance-to-the-national-disability-insurance-scheme-bill-2016": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/social-services-legislation-amendment-transition-mobility-allowance-to-the-national-disability-insurance-scheme-bill-2016/index.html",
+      "sha256": "4468548a2f5555368c614823605b5503547abf04a9969f9f3f53c5adf3c8966f",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/supported-independent-living": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/supported-independent-living/index.html",
+      "sha256": "6a08edb899d2b9773b66fc1f735d9530d70443c3cfac7763aa8d0f491fac0aac",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/the-provision-of-hearing-services-under-the-national-disability-insurance-scheme-ndis": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/the-provision-of-hearing-services-under-the-national-disability-insurance-scheme-ndis/index.html",
+      "sha256": "3ac0ecfc13f602998e4ee441d78642409960b2737093d96f1d84d948debe9179",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/the-provision-of-services-under-the-ndis-for-people-with-psychosocial-disabilities-related-to-a-mental-health-condition": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/the-provision-of-services-under-the-ndis-for-people-with-psychosocial-disabilities-related-to-a-mental-health-condition/index.html",
+      "sha256": "78624f78a9952346f0ffd7820c0deb38007104fa65e3a518967ae54068c56a61",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/external-submissions/transitional-arrangements-for-the-ndis": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/external-submissions/transitional-arrangements-for-the-ndis/index.html",
+      "sha256": "afc90906c6de4fde9bf4a0367805158fee851ecacf392e718491668e924a47c7",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/requests": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/requests/index.html",
+      "sha256": "278bd1c0bf9ac614d0a1d146d443556850789c5d3bf9064a35d9bffc49948982",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/library/statistics": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/library/statistics/index.html",
+      "sha256": "8a0869a4e0c0f7e456bd3a0477f7942b1c942a3331ca5332f2c16e4759d8ec78",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/links": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/links/index.html",
+      "sha256": "2366a2d9565f7b27e9e8b7a275678161c4472c0ab40aee7c9f1d3f5654b03e6c",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/news": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/news/index.html",
+      "sha256": "1689f799853cc8081f37c22d402562cfd56609cc4ce937ca5a440e4b9c16ec38",
+      "status": "active"
+    },
+    "https://ndiaaccountability.org/status": {
+      "content_type": "text/html",
+      "first_seen": "2026-09-18T20:02:49Z",
+      "last_changed": "2026-09-18T20:02:49Z",
+      "path": "archive/ndia-accountability/pages/status/index.html",
+      "sha256": "9de1766cb1874a9f8f85320d86671fbe49b3d67090f1cdba0c3ad192a0529903",
+      "status": "active"
+    }
+  },
+  "format_version": 1
+}
