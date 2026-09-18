@@ -2,7 +2,7 @@
 """Generic site archiver for the watch template.
 
 The scraper uses the configured sitemap as its page inventory, explicitly includes
-the NDIS home page, respects robots.txt, stores page/document bytes at stable
+the configured home page, respects robots.txt, stores page/document bytes at stable
 paths, maintains a hash manifest, and generates a browsable archive index.
 Git history becomes the version history of the archived site.
 """
@@ -270,15 +270,15 @@ def generate_archive_index(archive_root: Path, manifest: dict[str, Any], checked
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NDIS Website Archive — MyNDIS</title>
-  <meta name="description" content="Browsable archive index of NDIS website pages preserved by MyNDIS.">
+  <title>Configured Website Archive</title>
+  <meta name="description" content="Browsable archive index of configured website pages.">
 </head>
 <body>
   <main>
-    <h1>NDIS Website Archive</h1>
-    <p>This index links to every currently active NDIS webpage preserved in this archive.</p>
+    <h1>Configured Website Archive</h1>
+    <p>This index links to every currently active webpage preserved in this archive.</p>
     <p>Archived pages: {len(rows)}. Last archive check: {html.escape(checked_at)}.</p>
-    <p><a href="pages/home/">Archived NDIS home page</a></p>
+    <p><a href="pages/home/">Archived home page</a></p>
     <h2>Archived pages</h2>
     <ul>
 {chr(10).join(links)}
@@ -379,7 +379,7 @@ def main() -> int:
     if len(page_urls) > max_pages:
         raise RuntimeError(f"Sitemap exposed {len(page_urls)} pages; configured maximum is {max_pages}")
 
-    print(f"Discovered {len(page_urls)} pages from the NDIS sitemap/homepage inventory")
+    print(f"Discovered {len(page_urls)} pages from the configured sitemap/homepage inventory")
 
     for index, url in enumerate(sorted(page_urls), start=1):
         if not robots.can_fetch(user_agent, url):
