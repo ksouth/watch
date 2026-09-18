@@ -105,8 +105,12 @@ def build_robots(session: requests.Session, base_url: str, user_agent: str, time
     parser.set_url(robots_url)
     try:
         response = session.get(robots_url, timeout=timeout)
-        response.raise_for_status()
-        parser.parse(response.text.splitlines())
+        if response.status_code == 404:
+            # RFC 9309 treats an unavailable robots file as no published rules.
+            parser.parse([])
+        else:
+            response.raise_for_status()
+            parser.parse(response.text.splitlines())
     except requests.RequestException as exc:
         raise RuntimeError(f"Unable to read {robots_url}: {exc}") from exc
     return parser
